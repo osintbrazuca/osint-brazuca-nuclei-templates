@@ -1,10 +1,10 @@
-id: osint-consulta-veiculo-keplaca
+id: osint-consulta-veiculo-tabelafipebrasil
 
 info:
-  name: OSINT Consulta PLACA de carro Keplaca
+  name: OSINT Consulta PLACA de carro Tabela Fipe Brasil
   author: Mrcl0wn / OSINT Brazuca
   severity: info
-  description: Consulta dados de CNPJ via API keplaca.com
+  description: Consulta dados de PLACA via API tabelafipebrasil.com
   tags: cnpj,consulta,osint
 
 self-contained: true
