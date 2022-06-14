@@ -1,7 +1,12 @@
 # Nuclei Templates Brazuca
 Repositório criado com intuito de reunir templates da ferramenta Nuclei dentro do contexto Brasil.
 
-> Nuclei é um scanner de vulnerabilidade rápido e personalizável. A ferramenta Nuclei é uma ferramenta baseada na linguagem Golang usada para enviar requests através de vários alvos com base em modelos de núcleos que levam a zero falsos positivos ou resultados irrelevantes e fornece varredura rápida em vários hosts.
+> Nuclei é um scanner de vulnerabilidade rápido e personalizável. A ferramenta Nuclei é uma ferramenta baseada na linguagem Golang usada para enviar requests através de vários alvos com base em modelos de núcleos que levam a zero falsos positivos ou resultados irrelevantes e fornece varredura rápida em vários hosts. [ [mais](https://github.com/projectdiscovery/nuclei) ]
+
+
+<p style="text-align:center" align="center">
+<img src="asset/logo.png" width="50%" /><br>
+</p>
 
 Este conjundo de templates são categorizado inialmente em 3 tipos.
 
